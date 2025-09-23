@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Satyamgupta31">
-    <img src="https://github-readme-stats.vercel.app/api?username=Satyamgupta31&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Satyam's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&theme=radical&hide_border=true" alt="Satyam's GitHub Streak" />
   </a>
 </p>
 
