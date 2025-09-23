@@ -4,12 +4,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Satyamgupta31">
-    <img src="https://github-readme-stats.vercel.app/api?username=Satyamgupta31&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Satyam's GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&theme=tokyonight&hide_border=true" alt="Satyam's GitHub Streak" />
 </p>
 
@@ -36,24 +30,6 @@
 </p>
 
 ---
-
-<h3 align="center">📂 Pinned Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/Satyamgupta31/OutBreakPredictionModel" target="_blank">
-    <img src="https://github-readme-projects.vercel.app/?username=Satyamgupta31&repo=OutBreakPredictionModel&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Satyamgupta31/Jarvis-assistant" target="_blank">
-    <img src="https://github-readme-projects.vercel.app/?username=Satyamgupta31&repo=Jarvis-assistant&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/nishant0820/Jarvis" target="_blank">
-    <img src="https://github-readme-projects.vercel.app/?username=Satyamgupta31&repo=Jarvis&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Satyamgupta31/Drishto" target="_blank">
-    <img src="https://github-readme-projects.vercel.app/?username=Satyamgupta31&repo=Drishto&theme=tokyonight" />
-  </a>
-</p>
-
 ---
 
 <h3 align="center">📫 Connect with me</h3>
