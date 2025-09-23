@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 <h3 align="center">💻 AI & Machine Learning Enthusiast | Open Source Contributor | Mobile Developer</h3>
 
----
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&theme=tokyonight&hide_border=true" alt="Satyam's GitHub Streak" />
