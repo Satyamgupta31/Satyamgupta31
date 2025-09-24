@@ -3,9 +3,9 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&theme=tokyonight&hide_border=true" alt="Satyam's GitHub Streak" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://github.com/Satyamgupta31?tab=repositories">
