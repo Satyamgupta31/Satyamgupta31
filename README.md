@@ -1,54 +1,89 @@
 <h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
-<h3 align="center">💻 AI & Machine Learning Enthusiast | Open Source Contributor | Mobile Developer</h3>
-
-
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&theme=tokyonight&hide_border=true" alt="Satyam's GitHub Streak" />
-</p> -->
+<h3 align="center">
+AI & Machine Learning Enthusiast • Open Source Contributor • Mobile Developer
+</h3>
 
 <p align="center">
-  <a href="https://github.com/Satyamgupta31?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamgupta31&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=500&lines=Building+AI-powered+applications;Exploring+Machine+Learning+%26+Deep+Learning;Android+%26+iOS+Developer;Open+Source+Contributor" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Satyamgupta31">
+    <img src="https://komarev.com/ghpvc/?username=Satyamgupta31&label=Profile%20Views&color=6f42c1&style=flat" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🛠️ Skills & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+## 🚀 About Me
+- 🤖 Passionate about **AI, Machine Learning & Data Science**
+- 📱 Building **modern mobile apps** with Kotlin, Swift & Jetpack Compose
+- 🌍 Open Source believer — learning by building in public
+- 🧠 Curious about **AI + storytelling + real-world impact**
+- 🎯 Focused on writing **clean, scalable & production-ready code**
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,kotlin,swift,html" />
 </p>
 
----
----
-
-<h3 align="center">📫 Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/satyamgupta31" target="_blank">LinkedIn</a> |
-  <a href="https://twitter.com/" target="_blank">Twitter</a> |
-  <a href="https://medium.com/" target="_blank">Blog</a> |
-  <a href="mailto:Satyamkumarg089@gmail.com">Email</a>
+### 📊 AI / ML & Data
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-black?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-black?style=flat&logo=pandas&logoColor=white"/>
 </p>
 
----
-
-<h3 align="center">🎯 Fun Fact</h3>
-<p align="center">
-I love combining AI with creative storytelling, building interactive apps, and exploring new technologies to solve real-world problems.
+### 📱 Mobile & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,firebase" />
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Satyamgupta31&color=blueviolet&style=flat-square" alt="Visitor Count" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Satyamgupta31&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamgupta31&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Featured Work
+🚧 *Pinned repositories coming soon*  
+I focus on:
+- AI / ML experiments
+- Mobile applications
+- Open-source learning projects
+
+⭐ *Star the repos you like — it helps a lot!*
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/satyamgupta31">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+  <a href="mailto:Satyamkumarg089@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"/>
+  </a>
+  <a href="https://medium.com/">
+    <img src="https://skillicons.dev/icons?i=medium"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ “Code is not just instructions — it’s a way to think.” ✨
 </p>
