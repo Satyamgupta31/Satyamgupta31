@@ -24,7 +24,6 @@ Name: Satyam Gupta
 Role: AI Engineer | Android Developer
 Education: B.Tech CSE (CGPA 9.20)
 Achievement: Smart India Hackathon 2025 National Runner-Up
-Research Papers: 4
 Interests:
   - Artificial Intelligence
   - Mobile Development
