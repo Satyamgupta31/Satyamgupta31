@@ -1,37 +1,33 @@
 <!-- =========================================================
      GitHub Profile README
-     Username: Satyamgupta31
+     GitHub: Satyamgupta31
 ========================================================= -->
 
-<h1 align="center">
-  Hi 👋, I'm Satyam Gupta
-</h1>
+<h1 align="center">Hi 👋, I'm Satyam Gupta</h1>
 
 <h3 align="center">
-  AI Engineer • Mobile Developer • Researcher
+AI Engineer • Mobile Developer • Researcher
 </h3>
 
 <p align="center">
-  Building intelligent systems with AI, Machine Learning, LLMs and Mobile Technologies.
+Building intelligent systems with Artificial Intelligence, Machine Learning, LLMs and Mobile Technologies.
 </p>
 
 <p align="center">
 
-  <a href="https://github.com/Satyamgupta31">
-    <img src="https://komarev.com/ghpvc/?username=Satyamgupta31&label=Profile%20Views&color=6C63FF&style=flat-square" />
-  </a>
+<a href="https://github.com/Satyamgupta31">
+  <img src="https://komarev.com/ghpvc/?username=Satyamgupta31&label=Profile%20Views&color=6C63FF&style=flat-square" />
+</a>
 
-  <a href="https://github.com/Satyamgupta31">
-    <img src="https://img.shields.io/github/followers/Satyamgupta31?label=Followers&style=flat-square&logo=github" />
-  </a>
+<a href="https://github.com/Satyamgupta31">
+  <img src="https://img.shields.io/github/followers/Satyamgupta31?label=Followers&style=flat-square&logo=github" />
+</a>
 
-  <a href="https://github.com/Satyamgupta31">
-    <img src="https://img.shields.io/github/stars/Satyamgupta31?affiliations=OWNER&style=flat-square&logo=github" />
-  </a>
+<a href="https://github.com/Satyamgupta31">
+  <img src="https://img.shields.io/github/stars/Satyamgupta31?affiliations=OWNER&style=flat-square&logo=github" />
+</a>
 
 </p>
-
-<br/>
 
 <p align="center">
 
@@ -83,6 +79,7 @@ class SatyamGupta:
 # 🏆 Highlights
 
 <table>
+
 <tr>
 
 <td width="50%" align="center">
@@ -92,8 +89,6 @@ class SatyamGupta:
 **Smart India Hackathon**
 
 National Runner-Up
-
-One of India's largest innovation competitions.
 
 </td>
 
@@ -117,10 +112,12 @@ B.Tech — Computer Science Engineering
 
 ### 📄 Research
 
-Research interests across:
+Focused on:
 
-AI • Intelligent Systems •
-Computer Vision • Analytics
+Artificial Intelligence
+Computer Vision
+Intelligent Systems
+Analytics
 
 </td>
 
@@ -128,10 +125,12 @@ Computer Vision • Analytics
 
 ### 🚀 Engineering
 
-Building solutions with:
+Building with:
 
-AI • Mobile • Backend •
-Databases • APIs
+AI
+Mobile Applications
+Backend Systems
+Databases & APIs
 
 </td>
 
@@ -152,15 +151,20 @@ Databases • APIs
 <p>
 
 <img src="https://img.shields.io/badge/LLMs-000000?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/NLP-412991?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
+
 <img src="https://img.shields.io/badge/LoRA-7B2CBF?style=flat-square"/>
 
 </p>
 
-**Areas I work with**
+### Areas I Work With
 
 * Large Language Models
 * Natural Language Processing
@@ -180,8 +184,6 @@ Databases • APIs
 
 </p>
 
-**Technologies**
-
 `Android` • `Kotlin` • `Jetpack Compose` • `React Native` • `Swift`
 
 ---
@@ -193,8 +195,6 @@ Databases • APIs
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,docker,git,github"/>
 
 </p>
-
-**Technologies**
 
 `FastAPI` • `Node.js` • `REST APIs` • `MongoDB` • `MySQL` • `MariaDB` • `Docker`
 
@@ -216,7 +216,7 @@ Databases • APIs
 
 ### AI-Powered Mental Wellness Platform
 
-An intelligent conversational system focused on personalized wellness interactions using modern NLP and LLM technologies.
+An intelligent conversational platform focused on personalized wellness interactions.
 
 **Tech Stack**
 
@@ -226,10 +226,10 @@ An intelligent conversational system focused on personalized wellness interactio
 
 * 🤖 AI-powered conversations
 * 🧠 Context-aware responses
-* 📊 Wellness assessment systems
+* 📊 Wellness assessment
 * 🔍 Semantic search
 * 📚 Retrieval-Augmented Generation
-* 🗄️ Session & user management
+* 🗄️ Session management
 
 ---
 
@@ -237,7 +237,7 @@ An intelligent conversational system focused on personalized wellness interactio
 
 ### Intelligent Attendance & Analytics System
 
-A computer vision-powered platform for attendance automation and real-time behavioral analytics.
+A computer vision-powered system for attendance automation and real-time analytics.
 
 **Tech Stack**
 
@@ -248,7 +248,7 @@ A computer vision-powered platform for attendance automation and real-time behav
 * 👤 Face recognition
 * 📹 Real-time monitoring
 * 👁️ Attention detection
-* 📊 Analytics & insights
+* 📊 Analytics
 * ⚡ Optimized ML inference
 
 ---
@@ -257,7 +257,7 @@ A computer vision-powered platform for attendance automation and real-time behav
 
 ### AI-Powered Digital Library Applications
 
-Building modern library systems using mobile applications, chatbot technologies, APIs, and intelligent search.
+Building modern digital library systems using mobile applications, APIs, chatbots and intelligent search.
 
 **Tech Stack**
 
@@ -265,9 +265,9 @@ Building modern library systems using mobile applications, chatbot technologies,
 
 ### Key Areas
 
-* 📱 Cross-platform mobile applications
+* 📱 Cross-platform applications
 * 🤖 AI chatbots
-* 🔎 Semantic information retrieval
+* 🔎 Intelligent search
 * 📚 Digital library systems
 * 🔗 API integrations
 
@@ -277,9 +277,9 @@ Building modern library systems using mobile applications, chatbot technologies,
 
 ### IoT + AI Intelligent Monitoring Platform
 
-A technology-driven platform combining IoT data with machine learning and predictive analytics.
+A technology-driven platform combining IoT data with Machine Learning and predictive analytics.
 
-**Focus Areas**
+**Focus**
 
 `IoT` • `Machine Learning` • `Prediction Systems` • `Data Analytics`
 
@@ -318,35 +318,9 @@ Artificial Intelligence
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api?username=Satyamgupta31&show_icons=true&hide_border=true&rank_icon=github"
-/>
-
-<img
-height="165"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamgupta31&layout=compact&hide_border=true"
-/>
-
-</p>
-
-<br/>
-
-<p align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&hide_border=true"
-/>
-
-</p>
-
----
-
 # 🐍 Contribution Activity
+
+> The snake will appear here after the GitHub Action generates the SVG files.
 
 <p align="center">
 
@@ -377,11 +351,11 @@ src="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github
 
 > **Good technology is not just about building something that works.**
 >
-> It is about building something that is:
+> It should be:
 >
 > **Useful • Scalable • Reliable • Intelligent**
 
-I enjoy taking an idea from **research and experimentation** to a **real-world product**.
+I enjoy transforming ideas and research into real-world technology.
 
 ```text
 Research
@@ -425,7 +399,7 @@ Deploy 🚀
 
 <p align="center">
 
-### 💡 Build things that matter.
+## 💡 Build things that matter.
 
 From **ideas** → **research** → **intelligent systems** → **real-world products**.
 
