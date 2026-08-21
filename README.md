@@ -1,254 +1,344 @@
-# Hi, I'm Satyam Gupta 👋
+<!-- =========================================================
+     GitHub Profile README
+     Username: Satyamgupta31
+========================================================= -->
 
-### AI Engineer · Mobile Developer · Researcher
+<h1 align="center">
+  Hi 👋, I'm Satyam Gupta
+</h1>
 
-<p align="left">
-  <a href="https://github.com/Satyamgupta31">
-    <img src="https://img.shields.io/github/followers/Satyamgupta31?label=Followers&style=flat&color=181717&labelColor=181717&logo=github" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Satyamgupta31&label=Profile%20Views&color=6C63FF&style=flat" alt="Profile views" />
+<h3 align="center">
+  AI Engineer • Mobile Developer • Researcher
+</h3>
+
+<p align="center">
+  Building intelligent systems with AI, Machine Learning, LLMs and Mobile Technologies.
 </p>
 
-> Building intelligent systems at the intersection of **AI, Machine Learning, Mobile Development, and Research**.
+<p align="center">
+
+  <a href="https://github.com/Satyamgupta31">
+    <img src="https://komarev.com/ghpvc/?username=Satyamgupta31&label=Profile%20Views&color=6C63FF&style=flat-square" />
+  </a>
+
+  <a href="https://github.com/Satyamgupta31">
+    <img src="https://img.shields.io/github/followers/Satyamgupta31?label=Followers&style=flat-square&logo=github" />
+  </a>
+
+  <a href="https://github.com/Satyamgupta31">
+    <img src="https://img.shields.io/github/stars/Satyamgupta31?affiliations=OWNER&style=flat-square&logo=github" />
+  </a>
+
+</p>
+
+<br/>
+
+<p align="center">
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+Mobile+Developer;Machine+Learning+%7C+LLMs+%7C+NLP;Android+%7C+React+Native+%7C+Backend;Building+Intelligent+Systems;Researching.+Building.+Improving."
+/>
+
+</p>
 
 ---
 
-## `whoami`
+# 👨‍💻 About Me
 
 ```python
 class SatyamGupta:
 
     def __init__(self):
-        self.role = [
+
+        self.name = "Satyam Gupta"
+
+        self.roles = [
             "AI Engineer",
             "Mobile Developer",
             "Researcher"
         ]
 
-        self.focus = [
-            "Large Language Models",
+        self.interests = [
+            "Artificial Intelligence",
             "Machine Learning",
+            "Large Language Models",
             "Natural Language Processing",
-            "Android Development",
+            "Mobile Development",
             "Intelligent Systems"
         ]
 
-        self.currently_building = "Production-ready AI applications"
+        self.current_focus = [
+            "LLMs & RAG",
+            "AI-powered Applications",
+            "Mobile Development",
+            "Production-ready Systems"
+        ]
 
-        self.fun_fact = (
-            "I enjoy turning complex problems "
-            "into scalable and usable products."
-        )
+    def philosophy(self):
+        return "Research → Build → Test → Improve"
 ```
 
 ---
 
-## 🏆 Highlights
+# 🏆 Highlights
 
 <table>
 <tr>
-<td width="50%">
 
-### 🥈 Smart India Hackathon
+<td width="50%" align="center">
 
-**National Runner-Up — SIH 2025**
+### 🥈 SIH 2025
 
-Built and presented a technology solution at one of India's largest innovation competitions.
+**Smart India Hackathon**
+
+National Runner-Up
+
+One of India's largest innovation competitions.
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
 ### 🎓 Academic Excellence
 
 **College Rank #2**
 
-B.Tech Computer Science Engineering
+B.Tech — Computer Science Engineering
+
 **CGPA: 9.20 / 10**
 
 </td>
+
 </tr>
 
 <tr>
-<td width="50%">
+
+<td width="50%" align="center">
 
 ### 📄 Research
 
-Working across areas including:
+Research interests across:
 
-* Artificial Intelligence
-* Intelligent Systems
-* Computer Vision
-* Attendance Analytics
+AI • Intelligent Systems •
+Computer Vision • Analytics
 
 </td>
 
-<td width="50%">
+<td width="50%" align="center">
 
-### 🤖 Engineering
+### 🚀 Engineering
 
-Building applications using:
+Building solutions with:
 
-* AI & Machine Learning
-* Android & Mobile Development
-* Backend Systems
-* Databases & APIs
+AI • Mobile • Backend •
+Databases • APIs
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-# 🧠 What I Work With
-
-### AI / Machine Learning
+# 🧠 AI & Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/LLMs-000000?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square" />
-<img src="https://img.shields.io/badge/NLP-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/LoRA-7B2CBF?style=flat-square" />
-<img src="https://img.shields.io/badge/RAG-111111?style=flat-square" />
+
+<img src="https://img.shields.io/badge/LLMs-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Transformers-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-111111?style=flat-square"/>
+<img src="https://img.shields.io/badge/LoRA-7B2CBF?style=flat-square"/>
+
 </p>
 
-### Mobile Development
+**Areas I work with**
+
+* Large Language Models
+* Natural Language Processing
+* Retrieval-Augmented Generation
+* Vector Search
+* Fine-Tuning & LoRA
+* Transformer Models
+* AI-powered Applications
+
+---
+
+# 📱 Mobile Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=kotlin,java,swift,androidstudio,react" />
+
+<img src="https://skillicons.dev/icons?i=kotlin,java,swift,androidstudio,react,firebase"/>
+
 </p>
 
-**Android · Kotlin · Jetpack Compose · React Native · Swift**
+**Technologies**
 
-### Backend & Databases
+`Android` • `Kotlin` • `Jetpack Compose` • `React Native` • `Swift`
+
+---
+
+# ⚙️ Backend & Infrastructure
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,firebase,docker,git" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,mongodb,mysql,docker,git,github"/>
+
 </p>
 
-**FastAPI · Node.js · REST APIs · MongoDB · MySQL/MariaDB · Firebase**
+**Technologies**
 
-### Languages
+`FastAPI` • `Node.js` • `REST APIs` • `MongoDB` • `MySQL` • `MariaDB` • `Docker`
+
+---
+
+# 💻 Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,kotlin,java,swift,cpp,c,javascript,typescript" />
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,swift,cpp,c,javascript,typescript,html,css"/>
+
 </p>
 
 ---
 
-# 🚀 Featured Work
+# 🚀 Featured Projects
 
 ## 🧠 SoulSpace
 
-**AI-Powered Mental Wellness Platform**
+### AI-Powered Mental Wellness Platform
 
-An intelligent conversational platform focused on personalized wellness interactions.
+An intelligent conversational system focused on personalized wellness interactions using modern NLP and LLM technologies.
 
-**Tech**
+**Tech Stack**
 
-`Python` · `FastAPI` · `TinyLlama` · `LoRA` · `BERT` · `NLP` · `MongoDB` · `Vector Search`
+`Python` • `FastAPI` • `TinyLlama` • `LoRA` • `BERT` • `NLP` • `MongoDB` • `Vector Search`
 
-**Key Areas**
+### Key Features
 
 * 🤖 AI-powered conversations
-* 🧠 Context-aware interactions
+* 🧠 Context-aware responses
 * 📊 Wellness assessment systems
-* 🔍 Semantic search and retrieval
-* 🗄️ Session and user data management
+* 🔍 Semantic search
+* 📚 Retrieval-Augmented Generation
+* 🗄️ Session & user management
 
 ---
 
 ## 👁️ Attendify
 
-**Intelligent Attendance & Analytics System**
+### Intelligent Attendance & Analytics System
 
-A computer vision-based platform designed for attendance automation and behavioral analytics.
+A computer vision-powered platform for attendance automation and real-time behavioral analytics.
 
-**Tech**
+**Tech Stack**
 
-`Python` · `FastAPI` · `Computer Vision` · `MediaPipe` · `OpenCV` · `TFLite`
+`Python` • `FastAPI` • `OpenCV` • `MediaPipe` • `TFLite`
 
-**Key Areas**
+### Key Features
 
 * 👤 Face recognition
-* 📹 Real-time analysis
+* 📹 Real-time monitoring
 * 👁️ Attention detection
-* 📊 Analytics and insights
+* 📊 Analytics & insights
+* ⚡ Optimized ML inference
 
 ---
 
-## 📱 ILAMS / Digital Library Systems
+## 📚 Intelligent Library Systems
 
-**Intelligent Library Applications & Services**
+### AI-Powered Digital Library Applications
 
-Working on modernizing library experiences through mobile applications, APIs, chatbot systems, and AI-powered search.
+Building modern library systems using mobile applications, chatbot technologies, APIs, and intelligent search.
 
-**Tech**
+**Tech Stack**
 
-`React Native` · `Node.js` · `MongoDB` · `Rasa` · `NLP` · `Vector Search`
+`React Native` • `Node.js` • `Rasa` • `MongoDB` • `NLP` • `Vector Search`
 
-**Key Areas**
+### Key Areas
 
-* 📚 Digital library access
-* 🤖 Conversational interfaces
-* 🔎 Intelligent information retrieval
 * 📱 Cross-platform mobile applications
+* 🤖 AI chatbots
+* 🔎 Semantic information retrieval
+* 📚 Digital library systems
+* 🔗 API integrations
 
 ---
 
 ## 💧 AquaSentials
 
-**IoT + AI Intelligent Monitoring Platform**
+### IoT + AI Intelligent Monitoring Platform
 
-A technology-driven system combining IoT data with AI-based prediction and analytics.
+A technology-driven platform combining IoT data with machine learning and predictive analytics.
 
-**Focus**
+**Focus Areas**
 
-`IoT` · `Machine Learning` · `Data Analysis` · `Prediction Systems`
+`IoT` • `Machine Learning` • `Prediction Systems` • `Data Analytics`
 
 ---
 
-# ⚡ Current Focus
+# 🔬 Research Interests
 
 ```text
-┌─────────────────────────────────────────────────────────┐
-│                                                         │
-│   🤖  Large Language Models & AI Agents                │
-│   🧠  RAG & Knowledge Retrieval Systems                │
-│   📚  Vector Databases & Semantic Search               │
-│   📱  Advanced Mobile Application Development          │
-│   🔬  AI Research & Intelligent Systems                │
-│   🚀  Production-Ready AI Architectures                │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+Artificial Intelligence
+│
+├── Large Language Models
+├── Natural Language Processing
+├── Retrieval-Augmented Generation
+├── Computer Vision
+├── Intelligent Systems
+└── Applied Machine Learning
 ```
 
 ---
 
-# 📊 GitHub Activity
+# ⚡ Currently Exploring
+
+```text
+🤖 AI Agents & Agentic Workflows
+
+🧠 Advanced RAG Architectures
+
+📚 Vector Databases & Semantic Search
+
+📱 Modern Mobile Application Development
+
+⚙️ Scalable AI Infrastructure
+
+🔬 Applied AI Research
+```
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img 
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Satyamgupta31&show_icons=true&hide_title=true&hide_border=true&rank_icon=github"
+<img
+height="165"
+src="https://github-readme-stats.vercel.app/api?username=Satyamgupta31&show_icons=true&hide_border=true&rank_icon=github"
 />
 
-<img 
-height="170"
+<img
+height="165"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyamgupta31&layout=compact&hide_border=true"
 />
 
 </p>
 
+<br/>
+
 <p align="center">
 
-<img 
+<img
 src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&hide_border=true"
 />
 
@@ -256,34 +346,77 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=Satyamgupta31&hide_b
 
 ---
 
-# 🧩 Engineering Philosophy
+# 🐍 Contribution Activity
 
-> **Research. Build. Test. Improve. Repeat.**
+<p align="center">
 
-I believe good technology should not only be innovative — it should also be **scalable, practical, and useful to real people**.
+<picture>
 
-My work focuses on transforming ideas and research into **real-world intelligent applications**.
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+alt="GitHub Contribution Snake Animation"
+src="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake.svg"
+/>
+
+</picture>
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 🧩 Engineering Philosophy
 
-<p align="left">
+> **Good technology is not just about building something that works.**
+>
+> It is about building something that is:
+>
+> **Useful • Scalable • Reliable • Intelligent**
+
+I enjoy taking an idea from **research and experimentation** to a **real-world product**.
+
+```text
+Research
+   ↓
+Experiment
+   ↓
+Build
+   ↓
+Test
+   ↓
+Improve
+   ↓
+Deploy 🚀
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/satyam-gupta-4098a2271">
-<img src="https://skillicons.dev/icons?i=linkedin" height="38"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="42"/>
 </a>
 
- 
+   
 
 <a href="mailto:Satyamkumarg089@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="38"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="42"/>
 </a>
 
- 
+   
 
 <a href="https://github.com/Satyamgupta31">
-<img src="https://skillicons.dev/icons?i=github" height="38"/>
+<img src="https://skillicons.dev/icons?i=github" height="42"/>
 </a>
 
 </p>
@@ -292,12 +425,12 @@ My work focuses on transforming ideas and research into **real-world intelligent
 
 <p align="center">
 
-### `Build things that matter.`
+### 💡 Build things that matter.
 
-<sub>From research ideas → intelligent systems → real-world products.</sub>
+From **ideas** → **research** → **intelligent systems** → **real-world products**.
+
+<br/>
+
+<sub>Thanks for visiting my profile! 🚀</sub>
 
 </p>
-
-<!--
-✨ Profile README for github.com/Satyamgupta31
--->
