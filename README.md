@@ -320,29 +320,23 @@ Artificial Intelligence
 
 # 🐍 Contribution Activity
 
-> The snake will appear here after the GitHub Action generates the SVG files.
-
 <p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake-dark.svg"
+    />
 
-<picture>
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake.svg"
+    />
 
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake-dark.svg"
-/>
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake.svg"
-/>
-
-<img
-alt="GitHub Contribution Snake Animation"
-src="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake.svg"
-/>
-
-</picture>
-
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/Satyamgupta31/Satyamgupta31/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
