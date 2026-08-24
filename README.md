@@ -96,8 +96,6 @@ National Runner-Up
 
 ### 🎓 Academic Excellence
 
-**College Rank #2**
-
 B.Tech — Computer Science Engineering
 
 **CGPA: 9.20 / 10**
