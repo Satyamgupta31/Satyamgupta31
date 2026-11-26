@@ -98,7 +98,7 @@ National Runner-Up
 
 B.Tech — Computer Science Engineering
 
-**CGPA: 9.20 / 10**
+**CGPA: 9.23 / 10**
 
 </td>
 
